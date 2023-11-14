@@ -1,0 +1,19 @@
+{
+  "name": "@hadeel-dev/react-button",
+  "version": "1.0.0",
+  "description": "React special button",
+  "main": "Button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadeel-mahmoud/react-button.git"
+  },
+  "author": "hadeel-mahmoud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hadeel-mahmoud/react-button/issues"
+  },
+  "homepage": "https://github.com/hadeel-mahmoud/react-button#readme"
+}
